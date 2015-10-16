@@ -14,7 +14,6 @@ C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.UnitT
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.UnitTests.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.UnitTests.pdb
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.WebUI.dll
-C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\Moq.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\Ninject.dll
@@ -88,3 +87,7 @@ C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.Domain.dll
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.Domain.pdb
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\EntityFramework.dll
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.Domain.dll
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.Domain.pdb
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.UnitTests\bin\Debug\EntityFramework.xml

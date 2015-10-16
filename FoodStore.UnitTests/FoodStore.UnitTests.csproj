@@ -101,6 +101,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FoodStore.Domain\FoodStore.Domain.csproj">
+      <Project>{570DD13E-F2F3-4F92-AE3D-D5D44DD5C7A8}</Project>
+      <Name>FoodStore.Domain</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FoodStore.WebUI\FoodStore.WebUI.csproj">
       <Project>{F12A1F17-3E47-4F75-BB4D-A297CDF0574C}</Project>
       <Name>FoodStore.WebUI</Name>

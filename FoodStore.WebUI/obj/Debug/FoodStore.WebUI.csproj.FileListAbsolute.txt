@@ -14,7 +14,6 @@ C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\FoodStore.WebUI.dll.confi
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\FoodStore.WebUI.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\FoodStore.WebUI.pdb
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\Moq.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\Ninject.dll
 C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\Ninject.Web.Common.dll
@@ -87,3 +86,10 @@ C:\Projects\FoodStore\FoodStore.WebUI\bin\EntityFramework.dll
 C:\Projects\FoodStore\FoodStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Projects\FoodStore\FoodStore.WebUI\bin\EntityFramework.xml
 C:\Projects\FoodStore\FoodStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\EntityFramework.dll
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\FoodStore.Domain.dll
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\FoodStore.Domain.pdb
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\EntityFramework.xml
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Mateusz\Desktop\FoodStore\FoodStore.WebUI\obj\Debug\FoodStore.WebUI.csprojResolveAssemblyReference.cache
