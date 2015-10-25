@@ -6,6 +6,14 @@
 	</h3>
 	<span class="pull-right label label-primary">@Model.Price</span>
 	<span class="lead">@Model.Description</span>
+    
+    @using (Html.BeginForm("AddToCart", "Cart"))
+    {
+        <div class="pull-right">
+            @Html.HiddenFor(x => x.ProductID)
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+            <input type="submit" class="btn btn-submit" value="Add to cart"/>
+        </div>
+    }
 
-	
 </div>
