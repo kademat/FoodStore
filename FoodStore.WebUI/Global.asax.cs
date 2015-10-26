@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using FoodStore.Domain.Entities;
+using FoodStore.WebUI.Infrastructure.Binders;
 
 namespace FoodStore.WebUI
 {
@@ -13,6 +15,8 @@ namespace FoodStore.WebUI
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            ModelBinders.Binders.Add(typeof(Cart), new CartModelBinder());
         }
     }
 }

@@ -56,7 +56,6 @@ C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.UnitTests.dll.conf
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.UnitTests.dll
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.UnitTests.pdb
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\FoodStore.WebUI.dll
-C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\Moq.dll
 C:\Projects\FoodStore\FoodStore.UnitTests\bin\Debug\Ninject.dll
